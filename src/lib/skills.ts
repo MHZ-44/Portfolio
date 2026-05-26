@@ -31,7 +31,7 @@ export const UsingNow = [
     name: "Tailwind CSS",
     src: "https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg",
   },
-]
+];
 
 export const Learning = [
   {
@@ -46,7 +46,7 @@ export const Learning = [
     name: "MongoDB",
     src: "https://upload.wikimedia.org/wikipedia/commons/d/dc/Mongodb-icon.svg",
   },
-]
+];
 
 export const OtherSkills = [
   {
@@ -61,4 +61,4 @@ export const OtherSkills = [
     name: "English",
     src: "https://upload.wikimedia.org/wikipedia/commons/0/0b/English_language.svg",
   },
-]
+];

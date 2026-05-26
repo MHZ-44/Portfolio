@@ -1,9 +1,9 @@
-import AboutMe from "./pages/AboutMe"
-import Contact from "./pages/Contact"
-import MainPage from "./pages/MainPage"
-import Navbar from "./pages/Navbar"
-import Portfolio from "./pages/Portfolio"
-import Skills from "./pages/Skills"
+import AboutMe from "./pages/AboutMe";
+import Contact from "./pages/Contact";
+import MainPage from "./pages/MainPage";
+import Navbar from "./pages/Navbar";
+import Portfolio from "./pages/Portfolio";
+import Skills from "./pages/Skills";
 
 export function App() {
   return (
@@ -15,7 +15,7 @@ export function App() {
       <Portfolio />
       <Contact />
     </>
-  )
+  );
 }
 
-export default App
+export default App;
